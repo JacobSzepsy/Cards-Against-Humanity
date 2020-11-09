@@ -17,6 +17,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "author": "Jacob Szepsy",
+  "license": "SEE LICENSE IN ../LICENSE",
   "eslintConfig": {
     "extends": [
       "react-app",
