@@ -1,0 +1,22 @@
+{
+  "name": "cah-backend",
+  "version": "1.0.0",
+  "description": "backend for react based cards against humanity simulator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JacobSzepsy/Cards-Against-Humanity.git"
+  },
+  "author": "Jacob Szepsy",
+  "license": "SEE LICENSE IN ../LICENSE",
+  "bugs": {
+    "url": "https://github.com/JacobSzepsy/Cards-Against-Humanity/issues"
+  },
+  "homepage": "https://github.com/JacobSzepsy/Cards-Against-Humanity#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
